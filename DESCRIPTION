@@ -27,7 +27,7 @@ Suggests: testthat, utils
 RoxygenNote: 7.3.2
 VignetteBuilder: utils
 NeedsCompilation: no
-Packaged: 2025-01-15 11:23:33 UTC; christian.vonderach
+Packaged: 2025-01-15 11:25:16 UTC; christian.vonderach
 Author: Edgar Kublin [aut],
   Johannes Breidenbach [ctb],
   Christian Vonderach [ctb, cre]
