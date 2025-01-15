@@ -23,10 +23,11 @@ Description: Implementation of functions for fitting taper curves (a semiparamet
 License: GPL (>= 2)
 LazyLoad: yes
 Depends: nlme, splines, pracma
-Suggests: testthat
+Suggests: testthat, utils
 RoxygenNote: 7.3.2
+VignetteBuilder: utils
 NeedsCompilation: no
-Packaged: 2025-01-15 09:36:09 UTC; christian.vonderach
+Packaged: 2025-01-15 11:23:33 UTC; christian.vonderach
 Author: Edgar Kublin [aut],
   Johannes Breidenbach [ctb],
   Christian Vonderach [ctb, cre]
